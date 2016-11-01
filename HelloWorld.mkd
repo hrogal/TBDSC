@@ -1,2 +1,2 @@
-###Tufts Biomedical Data Science Club
-##Currently under construction.  More info to come.
+##Tufts Biomedical Data Science Club
+#The Tufts Biomedical Data Science Club is an organization developed for members to learn and apply techniques related to data science to drive innovation in the biomedical sciences. The Tufts Biomedical Data Science Club is an initiative of the Tufts Biomedical Business Club.
